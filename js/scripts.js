@@ -1,5 +1,5 @@
 let dateNow = new Date()
-let dateEnd = new Date("2021/07/07")
+let dateEnd = new Date("2022/11/13")
 let MSLeft = dateEnd - dateNow
 let seconds = MSLeft / 1000
 let minutes = seconds / 60
